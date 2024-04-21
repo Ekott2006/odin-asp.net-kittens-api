@@ -1,0 +1,80 @@
+GET https://localhost:7253/Kittens/
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-04-21T014124.200.json
+
+###
+
+GET https://localhost:7253/Kittens/Details/d6ad3972-5af0-4c4f-b3b6-21aa205dbfa9
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-04-21T012043.200.json
+
+###
+
+GET https://localhost:7253/Kittens/
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-04-21T012036.200.json
+
+###
+
+GET https://localhost:7253/Kittens/Details/75c47212-799c-4906-9bd6-86518bec0083
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-04-21T011828.200.html
+
+###
+
+GET https://localhost:7253/Kittens/
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-04-21T011735.200.html
+
+###
+
+GET https://localhost:7253/Kittens/
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-04-21T011528.200.json
+
+###
+
+GET https://localhost:7253/Kittens/
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-04-21T005820.200.html
+
+###
+
+GET https://localhost:7253/Kittens/
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-04-21T005805.200.html
+
+###
+
